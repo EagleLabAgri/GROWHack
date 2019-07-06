@@ -1,0 +1,2 @@
+# GROWHack
+Agri Tech Hackathon
